@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               Text(
-                "India",
+                "South Africa",
                 style: TextStyle(fontSize: 10),
               )
             ],
@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                 Padding(
                   padding: EdgeInsets.only(left: 20, top: 10, bottom: 20),
                   child: Text(
-                    "960 playlists",
+                    "4 albums",
                     style: TextStyle(
                         fontWeight: FontWeight.bold, color: Colors.grey),
                   ),

@@ -13,7 +13,6 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Colors.grey[900],
       appBar: AppBar(
-        brightness: Brightness.dark,
         backgroundColor: Colors.grey[900],
         elevation: 0,
         leading: Icon(Icons.search),
